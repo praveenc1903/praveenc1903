@@ -5,7 +5,7 @@
   </p>
   
   
-                    🚀 Impending Data Analyst | Data Enthusiast | Tech Explorer
+ 🚀 Impending Data Analyst | Data Enthusiast | Tech Explorer
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -15,7 +15,7 @@
   
   Welcome to my GitHub profile! I'm a passionate Data Analysing and eagerly exploring the world of code and data. Here, you'll find a collection of my projects showcasing my skills.
   
-  
+  <a href="https://praveenc1903.github.io/Praveen_portfolio/ "> <img src="https://img.shields.io/badge/Portfolio-%23ff0077.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   ---
   
   ### 🌟 About Me
@@ -72,7 +72,7 @@
 | Languages       |  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  |
 | Styling & Frameworks | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  |
 | Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
-| Services & Tools|  <a href="https://github.com/praveenc1903"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>  |
+| Services & Tools|  <a href="https://github.com/praveenc1903"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">|
 | Competitive Coding | <a href="https://leetcode.com/u/Praveen1932/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/praveenc1932"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
 | IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  
 
