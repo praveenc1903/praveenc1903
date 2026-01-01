@@ -13,7 +13,7 @@
   
   Welcome to my GitHub profile! I'm a passionate Data Science and eagerly exploring the world of code and data. Here, you'll find a collection of my projects showcasing my skills.
   
-  <a href="https://praveenc1903.github.io/Praveen_portfolio/ "> <img src="https://img.shields.io/badge/Portfolio-%23ff0077.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+  <a href="https://portfolio-six-lovat-84.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-%23ff0077.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   ---
   
   ### 🌟 About Me
