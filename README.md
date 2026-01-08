@@ -22,6 +22,19 @@
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Data Tools:** SQL, Python 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" /> **Hobbies:** Learning about tech, Solving coding challenges 🎸
   ---
+  ## 🚀 Live Project Demos
+### 🎵 Music Recommendation System
+🔗 <b>Live App:</b> <a href="https://recommendation-engine-ivkykmsgdlzjdsm26d6u2k.streamlit.app/">Vercel Demo</a>  
+📌 Personalized music recommendations using similarity models  
+🛠 Tech: Python, Pandas, Scikit-learn
+
+---
+### 🛡️ Insurance Fraud Detection
+🔗 <b>Live Demo:</b> <a href="https://insurance-fraud-detection-system-5fqtsvb9tfnjz3syaulqjs.streamlit.app/">Model Demo</a>  
+📌 Fraud classification using supervised ML techniques  
+🛠 Tech: Python, Machine Learning
+
+---
   
   ### 🔧 Tech Stack
   <p align="center">
@@ -43,9 +56,9 @@
   ### 🌍 Let's Connect
   <p align="center">
     <a href="https://www.linkedin.com/in/praveenc1932//"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://www.instagram.com/pravyn_19//"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+   <a href="https://www.instagram.com/maybe.pravyn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" /> 
-   <a href="https://wa.me/9500574505"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+   <a href="https://wa.me/447448208131"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   </p>
   
   </p>
@@ -54,13 +67,16 @@
   
   ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Love%20Letter.png" alt="Love Letter" width="25" height="25" /> Reach Me
   <p align="center">
-    <a href="mailto:praveenc1932@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="mailto:praveenuk1932@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     <a href="https://github.com/praveenc1903"><img src="https://img.shields.io/badge/Open%20to%20Collaboration-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Collaboration"></a>
   </p>
   
   ___
   
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" />  Visitor's Count: ![Visitor Count](https://profile-counter.glitch.me/praveenc1903/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveenc1903&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
   ___
   <p align="center">
     
@@ -73,6 +89,7 @@
 | Database | <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> |
 | Services & Tools|  <a href="https://github.com/praveenc1903"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a> <img src ="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">|
 | Competitive Coding | <a href="https://leetcode.com/u/Praveen1932/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> <a href="https://auth.geeksforgeeks.org/user/praveenc1932"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> |
-| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />  
+| IDE & Environment | <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> |
+| Machine Learning | <img src="https://img.shields.io/badge/Regression-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Classification-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Clustering-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/Dimensionality_Reduction-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Model_Tuning-red?style=for-the-badge"/> |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
