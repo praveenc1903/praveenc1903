@@ -34,6 +34,11 @@
 📌 Fraud classification using supervised ML techniques  
 🛠 Tech: Python, Machine Learning
 
+💳 PhonePe Transaction Insights    
+📌 Interactive data visualization and exploration of PhonePe transactions across India  
+📊 Insights on transactions, users, insurance, districts, and states using real PhonePe Pulse data  
+🛠 Tech: Python, Streamlit, Plotly, Pandas, CockroachDB, SQL  
+
 ---
   
   ### 🔧 Tech Stack
