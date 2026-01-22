@@ -22,7 +22,20 @@
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> **Data Tools:** SQL, Python 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Alarm%20Clock.png" alt="Alarm Clock" width="25" height="25" /> **Hobbies:** Learning about tech, Solving coding challenges 🎸
   ---
-  ## 🚀 Live Project Demos
+  ## 🚀 Project Demos
+
+  ---
+ 🩺 Chest X-Ray Pneumonia Detection (Airflow ML Pipeline) 
+
+### Chest X-Ray Pneumonia Detection (Airflow ML Pipeline)
+🔗 GitHub Repo: [View Project](https://github.com/praveenc1903/chestxray-airflow-ml-pipeline) 
+
+📌 End-to-end ML pipeline for pneumonia detection from chest X-ray images  
+🔁 Automated training and evaluation using Apache Airflow  
+📊 Experiment tracking with MLflow  
+🛠 Tech: Python, Apache Airflow, TensorFlow/Keras, MLflow, Docker
+
+---
 ### 🎵 Music Recommendation System
 🔗 <b>Live App:</b> <a href="https://recommendation-engine-ivkykmsgdlzjdsm26d6u2k.streamlit.app/">Vercel Demo</a>  
 📌 Personalized music recommendations using similarity models  
@@ -36,6 +49,7 @@
 
 ---
 💳 PhonePe Transaction Insights    
+🔗 GitHub Repo: [View Project](https://github.com/praveenc1903/Fintech-Transaction-Insights-)  
 📌 Interactive data visualization and exploration of PhonePe transactions across India  
 📊 Insights on transactions, users, insurance, districts, and states using real PhonePe Pulse data  
 🛠 Tech: Python, Streamlit, Plotly, Pandas, CockroachDB, SQL  
