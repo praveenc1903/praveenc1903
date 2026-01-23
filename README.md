@@ -24,12 +24,9 @@
   ---
   ## 🚀 Project Demos
 
-  ---
- 🩺 Chest X-Ray Pneumonia Detection (Airflow ML Pipeline) 
-
-### Chest X-Ray Pneumonia Detection (Airflow ML Pipeline)
-🔗 GitHub Repo: [View Project](https://github.com/praveenc1903/chestxray-airflow-ml-pipeline) 
-
+---
+🩺 Chest X-Ray Pneumonia Detection (Airflow ML Pipeline) 
+🔗 GitHub Repo: [View Project](https://github.com/praveenc1903/chestxray-airflow-ml-pipeline)                                  
 📌 End-to-end ML pipeline for pneumonia detection from chest X-ray images  
 🔁 Automated training and evaluation using Apache Airflow  
 📊 Experiment tracking with MLflow  
