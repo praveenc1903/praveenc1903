@@ -35,7 +35,11 @@ Currently seeking **Data Analyst / Data Scientist / ML Engineering** internships
 `Pandas` `NumPy` `Exploratory Data Analysis` `Statistical Analysis`
 
 **Visualisation**
-`Power BI` `Tableau` `Plotly` `Matplotlib` `Seaborn`
+`Power BI` `Tableau` `Plotly` `Matplotlib` `Seaborn` `KPI Reporting` `DAX` `Data Storytelling`
+
+**Spreadsheets & Reporting**
+`Excel` `Pivot Tables` `XLOOKUP` `VLOOKUP` `Conditional Formatting`
+`Data Cleaning` `Dashboard Development`
 
 **Engineering & Tools**
 `Apache Airflow` `MLflow` `Docker` `ETL Pipelines` `Streamlit` `Git` `Jupyter`
