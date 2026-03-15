@@ -48,16 +48,18 @@ Currently seeking **Data Analyst / Data Scientist / ML Engineering** internships
 
 ## Projects
 
-### Chest X-Ray Pneumonia Detection
-*End-to-end ML pipeline for medical image classification*
+### SQL Data Analytics — Exploratory & Advanced Analytics
 
-Built a production-grade pipeline that automates training, evaluation, and tracking of a deep learning model for pneumonia detection from chest X-ray images.
+*End-to-end SQL analytics project on a gold layer data warehouse*
 
-- Orchestrated with **Apache Airflow**; experiment tracking via **MLflow**
-- Deep learning model built on **TensorFlow / Keras**
-- Fully containerised with **Docker**
+Two-phase analytics project covering full EDA through to advanced business reporting, working against a structured warehouse (fact_sales, dim_customers, dim_products).
 
-[View Repository →](https://github.com/praveenc1903/chestxray-airflow-ml-pipeline)
+- Phase 1 – **EDA**: database exploration, dimension profiling, date range analysis, magnitude comparisons, and Top N / Bottom N ranking
+- Phase 2 – **Advanced Analytics**: change-over-time trends, cumulative running totals, performance benchmarking, part-to-whole segmentation, and customer/product behaviour segmentation.
+- SQL techniques: window functions (ROW_NUMBER, RANK, SUM OVER), CTEs, subqueries, joins, and aggregations
+- Business-first approach — every query answers a real stakeholder question with actionable insight.
+
+[View Repository →](https://github.com/praveenc1903/sql-data-analytics-project)
 
 ---
 
